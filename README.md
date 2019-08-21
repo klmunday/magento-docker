@@ -1,6 +1,9 @@
 # magento-docker
 A docker image for use in docker-composer environments and local magento files.
-*This is for use with Magento's Full Release files available from: [https://magento.com/tech-resources/download](https://magento.com/tech-resources/download)*
+
+*This is for use with Magento's Full Release files available from: [https://magento.com/tech-resources/download](https://magento.com/tech-resources/download).*
+
+**This is for development/testing purposes only, please do not use in production environments.**
 
 ## Instructions
 1. Download Magento full release files from [here](https://magento.com/tech-resources/download).
